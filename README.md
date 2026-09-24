@@ -7,3 +7,5 @@ Herramienta de IA usada: ChatGPT
 ## Contenido
 
 - [Bitacora de prompts](prompts/BITACORA.md)
+
+- [Tarea: mi prompt profesional](prompts/TAREA.md)
